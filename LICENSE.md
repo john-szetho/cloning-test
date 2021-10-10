@@ -1,1 +1,0 @@
-This End-User License Agreement (EULA) is a legal agreement between you (either as an individual or on behalf of an entity) and Z2 Inc. © regarding your use of John Szetho's code. IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS EULA, DO NOT INSTALL, USE OR COPY THE SOFTWARE.
