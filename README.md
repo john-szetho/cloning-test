@@ -1,6 +1,6 @@
 # GitHub Cloning Instructions
 
-Lately cloning repositories between GitHub and VSCode has been causing issues. This may be due to software updates, perhaps something to do with the default name for repo branches changing from `master` to `main`.
+Cloning GitHub repositories from VSCode has not been working. Perhaps due to software updates to do with default repo branch names changing from `master` to `main`.
 
 See: https://github.com/github/renaming
 
